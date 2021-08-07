@@ -2,11 +2,7 @@
 <h3 align="center">Üniversiteli bir geliştirici / tasarımcı.</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaisi&show_icons=true&locale=en&layout=compact" alt="nikolaisi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaisi&show_icons=true&locale=en" alt="nikolaisi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaisi&" alt="nikolaisi" /></p>
 
 <h3 align="left">Linkedin</h3>
 <p align="left">

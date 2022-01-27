@@ -1,6 +1,6 @@
 <h1 align="center">Selamlar! Ben, NikolaiS!</h1>
 <h3 align="center">Üniversiteli bir geliştirici</h3>
-<hr>Front End Web Development</hr>
+<h4 align="center">Front End Web Development</h4>
 <br>
 
 <h3 align="left">Linkedin:</h3>

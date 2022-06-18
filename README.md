@@ -1,4 +1,4 @@
-<h1 align="center">Selamlar! Ben, NikolaiS!</h1>
+<h1 align="center">Selamlar! Ben, Sedat!</h1>
 <h3 align="center">Üniversiteli bir geliştirici</h3>
 <h4 align="center">Mid Full Stack Developer</h4>
 <br>

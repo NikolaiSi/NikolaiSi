@@ -1,6 +1,6 @@
 <h1 align="center">Selamlar! Ben, Sedat!</h1>
 <h3 align="center">Üniversiteli bir geliştirici</h3>
-<h4 align="center">Mid Full Stack Developer</h4>
+<h4 align="center">Mid Front-End Developer</h4>
 <br>
 
 <h3 align="left">Linkedin:</h3>

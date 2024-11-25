@@ -8,11 +8,9 @@
 
 - 🌍 **Konum**: Türkiye
 - 💼 **Meslek**: Full-Stack Web Geliştirici
-- 🧑‍🎓 **Eğitim**: İzmir Ekonomi Üniversitesi | Bilgisayar Programcılığı
+- 📚 **Eğitim**: İzmir Ekonomi Üniversitesi | Bilgisayar Programcılığı
 
 ---
-
-## 💻 Teknik Yetenekler
 
 ### Backend
 - ✅ PHP (Object-Oriented & Procedural)
